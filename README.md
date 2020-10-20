@@ -5,6 +5,6 @@ To know downloads run:
 
 & python "g:/Software/Github Repos/SER-Resume/downloads.py" Espadaser SER-Resume
 
-or
+or adapt properly
 
 & G:/Software/Python/python.exe "g:/Software/Github Repos/SER-Resume/downloads.py" Espadaser SER-Resume
