@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 
+# Credits to https://github.com/mmilidoni/github-downloads-count
+# Example of usage on vscode:
+# & G:/Software/Python/python.exe "g:/Software/Github Repos/SER-Resume/downloads.py" Espadaser SER-Resume
+# Example of usage on cmd:
+# "g:/Software/Github Repos/SER-Resume/downloads.py" Espadaser SER-Resume
+
+
 import os
 import sys
 
