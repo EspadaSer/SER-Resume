@@ -1,10 +1,5 @@
 # SER-Resume
-Location of my personal resume
+This is the online location of my personal resume
 
-To know downloads run:
+https://github.com/EspadaSer/SER-Resume/releases/download/0.1/CV.Sergio.Espada.Rubio.pdf
 
-& python "g:/Software/Github Repos/SER-Resume/downloads.py" Espadaser SER-Resume
-
-or adapt properly
-
-& G:/Software/Python/python.exe "g:/Software/Github Repos/SER-Resume/downloads.py" Espadaser SER-Resume
